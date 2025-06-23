@@ -94,7 +94,6 @@ npm run watch
 ```bash
 php artisan serve
 ```
-A aplicação estará disponível em: http://localhost:8000
 
 **Terminal 2 - Build Frontend (modo watch):**
 ```bash
